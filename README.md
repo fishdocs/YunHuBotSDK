@@ -15,3 +15,4 @@ from sdk import BOT
 ```python
 bot = BOT(token="xxxxx")
 ```
+更多内容请访问文档:[开发中](https://yhsdk.readthedocs.io)
